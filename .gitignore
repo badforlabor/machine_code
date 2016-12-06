@@ -1,3 +1,10 @@
+*.db
+*.suo
+*.sdf
+Debug/
+.vs
+
+
 # Compiled Object files
 *.slo
 *.lo
